@@ -1,6 +1,4 @@
-package pack;
-
-//ALI TOPRAK 201854644 MA407
+//ALI TOPRAK 
 
 public class BinarySearch {
 	
